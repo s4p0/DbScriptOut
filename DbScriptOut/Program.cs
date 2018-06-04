@@ -13,7 +13,7 @@ namespace DbScriptOut
 
   class Program
   {
-    const string directory = "OUTPUT_AMCEL";
+    const string directory = "";
     static void Main(string[] args)
     {
       var parameters = new ParametersParser(args);
